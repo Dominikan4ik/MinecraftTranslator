@@ -1,0 +1,5 @@
+возможно для линукса это не подойдёт, но вот команды для работы с переводчиком, не собирая его
+
+python -m pip install -r requirements.txt
+python -m playwright install chromium
+python gui_app.py
